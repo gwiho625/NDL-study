@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# MATLAB
+*.asv
+*.autosave
+*.m~
+
+# Results
+*result*
+*_timepoint_spectra.csv
+*_wavelength_map.csv
+*_green_red_ratio.csv
+
+# Output folders
+output/
+results/
+
+#unmixing-compare/GCaMP_analysis/LSUM/LSUM_GCaMP_only_timepoint_spectra.csv
+unmixing-compare/GCaMP_analysis/NMF/NMF_GCaMP_only_timepoint_spectra.csv
+
+
+ macOS
+.DS_Store
+
+# MATLAB backup/temp
+*.asv
+*.m~
+*.autosave
+
+# result 관련 파일/폴더 제외
+*result*
+*Result*
+*RESULT*
